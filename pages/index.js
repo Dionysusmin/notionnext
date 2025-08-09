@@ -168,6 +168,7 @@ const DescText = styled.span`
   color: #374151;
 `;
 
+export default DanceHome;
 function DanceHome() {
   const timeline = [
     { date: "2024-06-01", desc: "完成第1次街舞打卡，学习基础动作。" },
